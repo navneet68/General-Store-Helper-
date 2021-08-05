@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeneralStoreHelper</string>
+    <string name="name_description">Name / Description</string>
+    <string name="create">Create</string>
+    <string name="scan">Scan</string>
+    <string name="barcodes_optional">Barcodes (Optional)</string>
+    <string name="no_of_items_in_store">No. of items in Store</string>
+    <string name="cost_price">Cost Price</string>
+    <string name="mass_volume">Mass / Volume</string>
+    <string name="quantity">Quantity</string>
+    <string name="rate">Rate</string>
+    <string name="sell_price">Sell Price</string>
+    <string name="availability">Availability</string>
+    <string name="barcodes_added">0 Barcodes Added</string>
+    <string name="type_here">Type Here</string>
+    <string name="dashdash">--</string>
+    <string name="delete_alert">The selected Item will be deleted permanently.!</string>
+    <string name="delete_anyway">"Delete "</string>
+    <string name="dont_delete">Cancel</string>
+    <string name="add_item_close_activity">Finish</string>
+    <string name="added_the_item">Item Added Successfully</string>
+    <string name="description_text">Description</string>
+
+</resources>
